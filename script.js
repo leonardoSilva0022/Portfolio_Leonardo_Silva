@@ -3,11 +3,6 @@
    script.js
    ============================================= */
 
-/**
- * Scroll Reveal
- * Observes every element with class .reveal and
- * adds .on when it enters the viewport.
- */
 const revealObserver = new IntersectionObserver(
   (entries) => {
     entries.forEach((entry) => {
