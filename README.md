@@ -9,7 +9,7 @@
 
 ---
 
-## 📁 Estrutura do prjeto
+## 📁 Estrutura do projeto
 
 ```
 portfolio/
